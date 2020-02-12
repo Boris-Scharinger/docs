@@ -20,7 +20,7 @@ Using controls provided by the data grid you can browse, search, and edit those 
 A data grid contains the following components: 
 
 1. [Search bar](search-bar) – allows end-users to search for objects in the data grid
-2. [Search bar](search-bar) – allows end-users to search for objects in the data grid
+2. [Control Bar](control-bar) – allows end-users to use controls for paging through datasets and trigger actions on objects
 3. [Sort bar](sort-bar) – allows end-users to sort items in the data grid 
 4.  [Grid Columns](columns) – allows end-users to set properties for a data grid column
 	![](attachments/data-widgets/data-grid-components.png)
